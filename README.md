@@ -1,1 +1,1 @@
-# solarpanel optimisation
+# solarpanel-optimisation-project 
